@@ -2,7 +2,6 @@
 
 
 
-### Heading level 1
 
 Doing this `# Heading level 1` will yield this:
 
@@ -10,7 +9,7 @@ Doing this `# Heading level 1` will yield this:
 
 
 
-### Heading level 2
+
 
 Doing this `## Heading level 2` will yield this:
 
@@ -18,19 +17,19 @@ Doing this `## Heading level 2` will yield this:
 
 
 
-### Heading level 3 
+
 
 Doing this `### Heading level 3` will yield this:
 
 ### Heading level 3  
 
-*FYI - you can have heading levels down to h6*
+(*FYI - you can have heading levels down to h6*)
 
 
 
 ### Making a simple paragraph
 
-`For simple paragraphs, you just type what you want without anything preceding it`
+
 For simple paragraphs, you just type what you want without anything preceding it
 
 
@@ -50,6 +49,8 @@ FYI - this defaults to a DISK glyph.
 ### Making a second-level ul bullet (circle)
 
 To make a second-level bullet, add 1 to 3 spaces:
+
+* a first-level bullet 
 
    * Indented bullets need 1 to 3 spaces. Any more than that will make it look like code!
 
@@ -85,7 +86,7 @@ There are two ways to make text italicized: using SINGLE asterisks or SINGLE und
 `*Make it italicized*`
 `_Make it italicized_`
 
-*Make it italicized* 
+*Make it italicized*\n
 _Make it italicized_
 
 
@@ -112,8 +113,8 @@ using several lines
 \`
 
 `
-Your code
-goes here
+Your code\n
+goes here\n
 using several lines
 `
 
