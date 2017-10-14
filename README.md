@@ -87,10 +87,10 @@ There are two ways to make text italicized: using SINGLE asterisks or SINGLE und
 `*Make it italicized*`
 `_Make it italicized_`
 
-```
+
 *Make it italicized*
 _Make it italicized_
-```
+
 
 - - - 
 
@@ -111,7 +111,9 @@ To make text look like code, you need to wrap the text in BACKTICKS and then wha
 
 \`\`\`
 Your code
+
 goes here
+
 using several lines
 \`\`\`
 
