@@ -85,10 +85,12 @@ __Make it bold!__
 There are two ways to make text italicized: using SINGLE asterisks or SINGLE underscores both before and after the text:
 
 `*Make it italicized*`
+
 `_Make it italicized_`
 
 
 *Make it italicized*
+
 _Make it italicized_
 
 
@@ -144,11 +146,11 @@ To create a link to an image (especially useful for embedding screenshots into y
 
 Then you put the actual path inside of parenthesis directly following the text:
 
-`(https://foo.com/foo.png)`
+`(kitten.thumbnail.jpg)`
 
 This is what it looks like in practice:
 
-`![image of a foo](https://foo.com/foo.png)`
+`![image of a foo](kitten.thumbnail.jpg)`
 
 (When an image is provided, it will show up here.)
 
