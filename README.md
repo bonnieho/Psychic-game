@@ -142,7 +142,7 @@ To make a horizontal rule, you type three dashes separated by spaces:
 
 To create a link to an image (especially useful for embedding screenshots into your README files), you first enclose the TEXT that is the ALT (description) of the image inside of SQUARE brackets - WITH an exclaimation point in front!:
 
-`![image of a foo]`
+`![image of a kitten]`
 
 Then you put the actual path inside of parenthesis directly following the text:
 
@@ -150,9 +150,9 @@ Then you put the actual path inside of parenthesis directly following the text:
 
 This is what it looks like in practice:
 
-`![image of a foo](kitten.thumbnail.jpg)`
+`![image of a kitten](kitten.thumbnail.jpg)`
 
-![image of a foo](kitten.thumbnail.jpg)
+![image of a kitten](kitten.thumbnail.jpg)
 
 (When an image is provided, it will show up here.)
 
