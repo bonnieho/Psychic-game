@@ -22,6 +22,7 @@ Doing this `## Heading level 2` will yield this:
 Doing this `### Heading level 3` will yield this:
 
 ### Heading level 3  
+- - - 
 
 (*FYI - you can have heading levels down to h6*)
 
@@ -41,7 +42,7 @@ Doing this `* a first-level bullet` will yield this:
 
 * a first-level bullet 
 
-FYI - this defaults to a DISK glyph. 
+(*FYI - this defaults to a DISK glyph.*)
 
 - - - 
 
@@ -54,7 +55,7 @@ To make a second-level bullet, add 1 to 3 spaces:
 
    * Indented bullets need 1 to 3 spaces. Any more than that will make it look like code!
 
-FYI - this defaults to a CIRCLE glyph. 
+(*FYI - this defaults to a CIRCLE glyph.*) 
 
 - - - 
 
@@ -86,9 +87,10 @@ There are two ways to make text italicized: using SINGLE asterisks or SINGLE und
 `*Make it italicized*`
 `_Make it italicized_`
 
-*Make it italicized*\n
+```
+*Make it italicized
 _Make it italicized_
-
+```
 
 - - - 
 
@@ -107,17 +109,17 @@ To make text look like code, you need to wrap the text in BACKTICKS:
 
 To make text look like code, you need to wrap the text in BACKTICKS and then what I do is start the text on the next line:
 
-\`
+\`\`\`
 Your code
 goes here
 using several lines
-\`
+\`\`\`
 
-`
-Your code\n
-goes here\n
+```
+Your code
+goes here
 using several lines
-`
+```
 
 
 
@@ -134,9 +136,9 @@ To make a horizontal rule, you type three dashes separated by spaces:
 ### Inserting an image
  
 
-To create a link to an image (especially useful for embedding screenshots into your README files), you first enclose the TEXT that is the ALT (description) of the image inside of SQUARE brackets:
+To create a link to an image (especially useful for embedding screenshots into your README files), you first enclose the TEXT that is the ALT (description) of the image inside of SQUARE brackets - WITH an exclaimation point in front!:
 
-`[image of a foo]`
+`![image of a foo]`
 
 Then you put the actual path inside of parenthesis directly following the text:
 
@@ -144,7 +146,7 @@ Then you put the actual path inside of parenthesis directly following the text:
 
 This is what it looks like in practice:
 
-`[image of a foo](https://foo.com/foo.png)`
+`![image of a foo](https://foo.com/foo.png)`
 
 (When an image is provided, it will show up here.)
 
