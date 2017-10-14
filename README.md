@@ -1,6 +1,6 @@
 # GitHub MarkDown (.md) CHEATSHEET
 
-
+- - - 
 
 
 Doing this `# Heading level 1` will yield this:
@@ -8,7 +8,7 @@ Doing this `# Heading level 1` will yield this:
 # Heading level 1 
 
 
-
+- - - 
 
 
 Doing this `## Heading level 2` will yield this:
@@ -16,7 +16,7 @@ Doing this `## Heading level 2` will yield this:
 ## Heading level 2 
 
 
-
+- - - 
 
 
 Doing this `### Heading level 3` will yield this:
@@ -25,14 +25,14 @@ Doing this `### Heading level 3` will yield this:
 
 (*FYI - you can have heading levels down to h6*)
 
-
+- - - 
 
 ### Making a simple paragraph
 
 
 For simple paragraphs, you just type what you want without anything preceding it
 
-
+- - - 
 
 
 ### Making a first-level ul bullet (disk)
@@ -43,7 +43,7 @@ Doing this `* a first-level bullet` will yield this:
 
 FYI - this defaults to a DISK glyph. 
 
-
+- - - 
 
 
 ### Making a second-level ul bullet (circle)
@@ -56,7 +56,7 @@ To make a second-level bullet, add 1 to 3 spaces:
 
 FYI - this defaults to a CIRCLE glyph. 
 
-
+- - - 
 
 
 ### Creating an ORDERED list
@@ -65,7 +65,7 @@ For an ORDERED (numbered) list, just type the number you want:
 
 7. If you can't get the table to display properly after a few hours,
 
-
+- - - 
 
 ### Making text bold
 
@@ -77,7 +77,7 @@ There are two ways to make text bold: using DOUBLE asterisks or DOUBLE underscor
 **Make it bold!**  
 __Make it bold!__
 
-
+- - - 
 
 ### Making text italicized
 
@@ -90,7 +90,7 @@ There are two ways to make text italicized: using SINGLE asterisks or SINGLE und
 _Make it italicized_
 
 
-
+- - - 
 
 ### Creating inline code-like (courier) font
 
@@ -100,6 +100,7 @@ To make text look like code, you need to wrap the text in BACKTICKS:
 
 `departments` 
 
+- - - 
 
 
 ### Creating a *block* of code-like (courier) font
@@ -148,7 +149,7 @@ This is what it looks like in practice:
 (When an image is provided, it will show up here.)
 
 
-
+- - - 
 
 
 ### Hyperlink
