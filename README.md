@@ -88,7 +88,7 @@ There are two ways to make text italicized: using SINGLE asterisks or SINGLE und
 `_Make it italicized_`
 
 ```
-*Make it italicized
+*Make it italicized*
 _Make it italicized_
 ```
 
