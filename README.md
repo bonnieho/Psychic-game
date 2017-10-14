@@ -152,6 +152,8 @@ This is what it looks like in practice:
 
 `![image of a foo](kitten.thumbnail.jpg)`
 
+![image of a foo](kitten.thumbnail.jpg)
+
 (When an image is provided, it will show up here.)
 
 
